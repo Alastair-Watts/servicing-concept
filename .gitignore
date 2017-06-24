@@ -22,3 +22,10 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+## embedded Mongo ##
+data
+mongodb.conf
+
+## eclipse ##
+.project
